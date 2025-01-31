@@ -11,16 +11,14 @@ If you want to suggest edits to an existing Topic page or Collection, or curate 
 ## Running tests
 
 There are some lint tests in place to ensure each Topic is formatted in the way we expect. GitHub
-Actions will run the tests automatically. If you want to run the tests yourself locally, you will
-need Ruby and Bundler installed.
-
+Actions will run the tests automatically. If you ⁰
 You can run the tests using:
 
 ```bash
 bundle install
 bundle exec rubocop
 ```
-
+explore
 ## Licenses
 
 Content is released under [CC-BY-4.0]https://github.com/Kathy3552/katherinesdee/actions
